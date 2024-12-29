@@ -1,12 +1,16 @@
-# Hi, I’m [@nasrullahasghar](https://github.com/nasrullahasghar) 👋
+# Hi, I’m [Nasrullah Asghar](https://github.com/nasrullahasghar) 👋
 
-- 👀 I’m passionate about Data Science.
-🌱 Currently, I’m a trainee of Data Science at [Knowledge Streams](https://www.linkedin.com/company/knowledgestreams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BOkhaJKhXQyyWSFC%2FcUiw4A%3D%3D).
-- 💞️ I’m looking to collaborate on exciting Data Science projects.
-- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/nasrullah-asghar).
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I am a cricket lover!
+## About Me
+- I am an aspiring Data Scientist with a passion for leveraging data to drive insights and decision-making.
+- Currently seeking job opportunities to apply my skills and further develop my expertise.
+- Open to collaboration on exciting Data Science projects.
 
+## Contact
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nasrullah-asghar).
+
+## Additional Information
+- **Pronouns:** He/Him
+- **Fun Fact:** I am an avid cricket lover!
 <!---
 nasrullahasghar/nasrullahasghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
