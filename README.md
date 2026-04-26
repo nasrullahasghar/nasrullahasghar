@@ -25,17 +25,7 @@
 - Generative AI & Large Language Models
 - Data Analysis & Visualization
 - Model Deployment & MLOps
-
-**Focus Areas:**
-- Customer Segmentation & Retention
-- Demand Forecasting
-- NLP Insights from Unstructured Data
-- Experimentation & Uplift Modeling
-- End-to-End ML Systems
-
-## Current Focus
-
-I'm building a hiring-relevant portfolio with real-world projects that demonstrate practical data science skills, avoiding beginner datasets in favor of production-oriented systems. My approach emphasizes public learning, daily content creation, and active LinkedIn engagement.
+  
 
 ## Additional Information
 
