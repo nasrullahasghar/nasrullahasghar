@@ -2,32 +2,67 @@
 
 ## About Me
 
-- I am an aspiring Data Scientist and AI Engineer with a passion for leveraging artificial intelligence and machine learning to solve real-world problems.
-- Currently seeking job opportunities in Data Science, Machine Learning Engineering, Generative AI, and Natural Language Processing roles in Lahore, Pakistan.
-- Open to collaboration on exciting Data Science and AI projects.
-- My career goal is to become a proficient AI/ML Engineer specializing in Generative AI, NLP, and building production-ready systems.
-
-## Contact
-
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/inasrullah-asghar/).
+- 👨‍💻 I'm a **Data Scientist and AI/ML enthusiast** passionate about using data and artificial intelligence to solve real-world problems.
+- 🧠 Experienced in **Machine Learning, Deep Learning, Data Analysis, and AI/ML deployment** using Python.
+- 📊 Skilled in **data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and optimization**.
+- ⚙️ Experienced in building and deploying **production-oriented ML APIs** using FastAPI, Docker, Redis, and related tools.
+- 🔬 Interested in **Generative AI, NLP, LLMs, and modern AI systems**, and continuously expanding my knowledge in these areas.
+- 🚀 My career goal is to become a strong **AI/ML Engineer** specializing in building reliable, scalable, and production-ready AI solutions.
+- 🤝 Open to collaboration on interesting **Data Science, Machine Learning, and AI projects**.
+- 📍 Currently seeking opportunities in **Data Science, Machine Learning Engineering, and AI Engineering**.
 
 ## Technical Skills
 
-**Programming & Tools:**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-- SQL & Database Management
-- Git & Version Control
-- Docker & Cloud Platforms
+**Programming & Data:**
+- Python
+- Pandas & NumPy
+- SQL & MySQL
+- Jupyter Notebook
 
-**Core Competencies:**
+**Machine Learning & Deep Learning:**
+- Scikit-learn
+- XGBoost
+- CatBoost
+- LightGBM
+- TensorFlow & Keras
 - Machine Learning & Deep Learning
-- Natural Language Processing
-- Generative AI & Large Language Models
-- Data Analysis & Visualization
-- Model Deployment & MLOps
-  
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation & Optimization
 
-## Additional Information
+**Data Visualization:**
+- Matplotlib
+- Seaborn
+- Plotly
+- Power BI
+- Streamlit
 
-- **Pronouns:** He/Him
-- **Fun Fact:** I am an avid cricket lover! 🏏
+**Backend & MLOps:**
+- FastAPI
+- REST APIs
+- Pydantic
+- JWT Authentication
+- Docker & Docker Compose
+- Redis
+- Prometheus & Grafana
+- Git & GitHub
+
+## Currently Exploring 🚀
+
+- Generative AI
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- LLM Evaluation
+- AI Agents
+- MLOps
+- Production AI Systems
+
+## Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/inasrullah-asghar/)
+
+## A Little About Me
+
+- 🧠 Always learning and experimenting with AI/ML.
+- 💻 I enjoy building practical, end-to-end machine learning solutions.
+- 🏏 I'm an avid cricket lover!
