@@ -34,8 +34,6 @@
 - Matplotlib
 - Seaborn
 - Plotly
-- Power BI
-- Streamlit
 
 **Backend & MLOps:**
 - FastAPI
