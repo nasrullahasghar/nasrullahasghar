@@ -56,8 +56,8 @@
 - Production AI Systems
 
 ## Connect With Me
-<a href="https://www.linkedin.com/in/inasrullah-asghar/" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="LinkedIn">
 </a>
 
 ## A Little About Me
