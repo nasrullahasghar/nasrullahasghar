@@ -57,7 +57,7 @@
 
 ## Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/inasrullah-asghar/)
+[![LinkedIn Icon](https://shields.io)](https://linkedin.com) [LinkedIn](https://www.linkedin.com/in/inasrullah-asghar/)
 
 ## A Little About Me
 
