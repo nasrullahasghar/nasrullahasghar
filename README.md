@@ -59,6 +59,9 @@
 <a href="https://www.linkedin.com/in/inasrullah-asghar/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
+<a href="https://www.kaggle.com/mirzanasrullah">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+</a>
 
 
 ## A Little About Me
