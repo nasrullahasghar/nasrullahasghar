@@ -57,7 +57,7 @@
 
 ## Connect With Me
 
-https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inasrullah-asghar/
+[LINKEDIN](https://www.linkedin.com/in/inasrullah-asghar/)
 
 ## A Little About Me
 
